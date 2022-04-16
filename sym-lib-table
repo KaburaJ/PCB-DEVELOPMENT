@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FUSH-PROJECT-ONE-rescue)(type Legacy)(uri "${KIPRJMOD}/FUSH PROJECT ONE-rescue.lib")(options "")(descr ""))
+)
