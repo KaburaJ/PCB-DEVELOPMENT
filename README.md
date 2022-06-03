@@ -1,1 +1,2 @@
 # My-First-PCB
+PCBs (Printed Circuit Boards) are defined as a surface onto which electronic components can be mounted. They often contain conductive routes called tracks through which electrical components are connected. The design and implementation of PCBs is often done using a variety of software such as Proteus and KiCad. This repository will explore the design process of a PCB from having an idea, designing it on software, and coming up with a functioning PCB.
