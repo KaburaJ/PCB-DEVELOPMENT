@@ -1,0 +1,31 @@
+"Source:","C:\Users\joan\Desktop\PCB DEVELOPMENT\Software\FUSH PROJECT ONE.sch"
+"Date:","30/08/2022 06:43:28"
+"Tool:","Eeschema (6.0.5)"
+"Generator:","F:\Kicad 6.0\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","8"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","STANDARD"
+"","","D1","1N4007","Diode:1N4007","Diode_THT:D_DO-41_SOD81_P12.70mm_Horizontal","http://www.vishay.com/docs/88503/1n4001.pdf","",""
+"","","J1","AC","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm","~","",""
+"","","J2","5V","Connector:Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","",""
+"","","J3","LAMP","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm","~","",""
+"","","J4","ARD","Connector:Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","",""
+"","","K1","SRD-05VDC-SL-C","FUSH-PROJECT-ONE-rescue:SRD-05VDC-SL-C-SRD05VDC","SRD05VDC:RELAY_SRD-05VDC-SL-C","","SONGLE RELAY","IPC-7251"
+"","","Q1","BC547","Transistor_BJT:BC547","Package_TO_SOT_THT:TO-92_Inline","http://www.fairchildsemi.com/ds/BC/BC547.pdf","",""
+"","","R1","1K","Device:R_Small","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","STANDARD"
+"1","1","D1","1N4007","Diode:1N4007","Diode_THT:D_DO-41_SOD81_P12.70mm_Horizontal","http://www.vishay.com/docs/88503/1n4001.pdf","",""
+"2","1","J1","AC","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm","~","",""
+"3","1","J2","5V","Connector:Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","",""
+"4","1","J3","LAMP","Connector:Screw_Terminal_01x02","TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm","~","",""
+"5","1","J4","ARD","Connector:Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~","",""
+"6","1","K1","SRD-05VDC-SL-C","FUSH-PROJECT-ONE-rescue:SRD-05VDC-SL-C-SRD05VDC","SRD05VDC:RELAY_SRD-05VDC-SL-C","","SONGLE RELAY","IPC-7251"
+"7","1","Q1","BC547","Transistor_BJT:BC547","Package_TO_SOT_THT:TO-92_Inline","http://www.fairchildsemi.com/ds/BC/BC547.pdf","",""
+"8","1","R1","1K","Device:R_Small","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","",""
