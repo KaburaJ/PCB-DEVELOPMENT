@@ -19,7 +19,7 @@ This was done by KiCad software. The following are the schematic and 3D views of
 
 ![PCB SCHEMATIC CAPTURE](https://github.com/KaburaJ/PCB-DEVELOPMENT/blob/main/images/PCB%20DEVELOPMENT/PCB%20SCHEMATIC%20CAPTURE.PNG)
 
-![PCB 3D VIEW](https://github.com/KaburaJ/PCB-DEVELOPMENT/blob/main/PCB%203D%20VIEW.PNG)
+![PCB 3D VIEW](https://github.com/KaburaJ/PCB-DEVELOPMENT/blob/main/images/PCB%20DEVELOPMENT/PCB%203D%20VIEW.PNG)
 
 ---
 
